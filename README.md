@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MohammadEdrees 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working .Net Developer
+- 👋 Hi, I’m MohammadEdrees 
+- 👀 I’m interested in Software Development | Clean Architecture and Programming
+- 🌱 I’m currently working as a .Net Developer
 - 💞️ I’m looking to collaborate on new technologies 
 - 📫 You are welcome to visit my Linked In : https://www.linkedin.com/in/mohamed-edrees-b38198147/
 
